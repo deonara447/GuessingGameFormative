@@ -15,8 +15,8 @@ namespace GuessingGameFormative
         Random randGen = new Random();
         int playerGuess;
         int correctNumber;
-        int difference;
-        int numAbsolute
+        //int difference;
+        //int numAbsolute
 
 
         public Form1()
